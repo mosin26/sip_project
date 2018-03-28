@@ -1,3 +1,5 @@
 split&merge/normalized_images
 image_data
 *.png
+.DS_Store
+.ipynb_checkpoints/
