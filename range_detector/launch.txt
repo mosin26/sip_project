@@ -1,0 +1,2 @@
+python range-detector.py -f hsv -i test.png
+python range-detector.py -f hsv -w #webcam
